@@ -1,7 +1,1 @@
-### Fork Swap 
-
-
-Website: https://swap.forkchain.org/
-RPC: https://rpc-mainnet.forkchain.org/
-WS: wss://rpc-mainnet.forkchain.org/ws
-Program ID: HN6s3EsH7oC2Ws76D4CGQj7NrbHKYV1agiBg4Hv1d5VS (Fork Mainnet)
+### Fork Swap — [Website](https://swap.forkchain.org/) | [RPC](https://rpc-mainnet.forkchain.org/) | [WS](wss://rpc-mainnet.forkchain.org/ws) | Program ID: `HN6s3EsH7oC2Ws76D4CGQj7NrbHKYV1agiBg4Hv1d5VS` (Fork Mainnet)
